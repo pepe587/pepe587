@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently studing in **42 Málaga**
 
-- 🦧 I’m currently learning **C++ and esp-idf**
+- 🦧 I’m currently learning **C++**
 
 - 🔮 Ask me about **C, C++, Shell (bash & zsh)**
 
